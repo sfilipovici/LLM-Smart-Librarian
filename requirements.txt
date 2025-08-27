@@ -1,0 +1,6 @@
+openai>=1.35.0        # OpenAI client SDK
+chromadb>=0.5.5       # Vector database (non-OpenAI, as required by assignment)
+python-dotenv>=1.0.1  # Load your .env with OPENAI_API_KEY
+tiktoken>=0.7.0       # Tokenization (useful for OpenAI context mgmt)
+streamlit>=1.36.0     # (Optional) GUI instead of CLI
+requests>=2.32.0      # General HTTP calls (good to have)

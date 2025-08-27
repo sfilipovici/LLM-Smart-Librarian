@@ -1,0 +1,62 @@
+[
+  {
+    "title": "1984",
+    "themes": ["libertate", "control social", "distopie", "adevăr"],
+    "summary_short": "O societate totalitară condusă de Big Brother suprimă adevărul și libertatea.",
+    "summary_full": "Romanul lui George Orwell prezintă o societate distopică în care statul controlează informația, limbajul și viața privată. Winston Smith încearcă să-și păstreze umanitatea și să reziste manipulării ideologice. Cartea explorează teme precum supravegherea, propaganda și libertatea gândirii."
+  },
+  {
+    "title": "The Hobbit",
+    "themes": ["aventură", "prietenie", "curaj", "fantasy"],
+    "summary_short": "Bilbo pornește într-o călătorie neașteptată alături de pitici pentru a înfrunta dragonul Smaug.",
+    "summary_full": "Bilbo Baggins, un hobbit comod, este recrutat de vrăjitorul Gandalf și o ceată de pitici pentru a recupera comoara păzită de dragonul Smaug. În peregrinarea sa, Bilbo descoperă ingeniozitate și curaj, formând prietenii și învățând să își depășească limitele."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "themes": ["justiție", "rasism", "copilărie", "empatie"],
+    "summary_short": "În Sudul american al anilor 1930, Atticus Finch apără un bărbat de culoare acuzat pe nedrept.",
+    "summary_full": "Povestită prin ochii lui Scout, cartea explorează prejudecățile rasiale și moralitatea într-un orășel sudist. Atticus Finch, tatăl ei, apără un bărbat de culoare fals acuzat, demonstrând curaj moral și empatie. Romanul evidențiază inocența copilăriei și nedreptatea socială."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "themes": ["dragoste", "clasă socială", "familie", "prejudecăți"],
+    "summary_short": "Elizabeth Bennet și domnul Darcy navighează între prejudecăți și orgolii spre o înțelegere reală.",
+    "summary_full": "Comedia de moravuri a lui Jane Austen examinează tensiunile de clasă și așteptările sociale în Anglia georgiană. Evoluția relației dintre Elizabeth Bennet și Fitzwilliam Darcy scoate la iveală capcanele mândriei și prejudecăților, dar și posibilitatea transformării personale."
+  },
+  {
+    "title": "The Little Prince",
+    "themes": ["prieteni", "sensul vieții", "imaginație", "pierdere"],
+    "summary_short": "Un prințișor călătorește între planete și meditează la prietenie și esențial.",
+    "summary_full": "Micul Prinț întâlnește personaje simbolice care îi arată absurditățile lumii adulților. Prietenia cu vulpea îl învață că „esențialul este invizibil pentru ochi”. Povestea meditează asupra inocenței, responsabilității și iubirii."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "themes": ["alienare", "adolescență", "identitate"],
+    "summary_short": "Holden Caulfield rătăcește prin New York căutând sens și autenticitate.",
+    "summary_full": "Naratorul rebel Holden caută sinceritate într-o lume pe care o percepe falsă. Plimbându-se prin New York, se confruntă cu tristețe, anxietate și dorința de a proteja inocența copiilor. Romanul surprinde tranziția dificilă spre maturitate."
+  },
+  {
+    "title": "The Great Gatsby",
+    "themes": ["visul american", "bogăție", "iluzie", "iubire"],
+    "summary_short": "Jay Gatsby urmărește o iubire idealizată pe fundalul anilor ’20 plini de opulență.",
+    "summary_full": "Nick Carraway relatează ascensiunea și căderea misteriosului milionar Gatsby, obsedat de Daisy Buchanan. Cartea deconstruiește mitul visului american, arătând cum bogăția maschează golul moral și iluziile periculoase."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "themes": ["magie", "prietenie", "curaj", "alegere"],
+    "summary_short": "Un băiat descoperă că este vrăjitor și începe studiile la Hogwarts.",
+    "summary_full": "Harry Potter își află destinul de vrăjitor și intră într-o lume fascinantă la Hogwarts. Prieteniile cu Hermione și Ron, alături de încercările de a înfrunta pericolele, pun bazele unei serii despre curaj, loialitate și alegerea binelui."
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "themes": ["eroism", "sacrificiu", "prietenie", "lupta cu răul"],
+    "summary_short": "Frodo pleacă spre Mordor pentru a distruge Inelul Unic.",
+    "summary_full": "Prima parte din Stăpânul Inelelor urmărește călătoria lui Frodo și a Frăției Inelului spre Mordor. Pe traseu, sacrificiul, prietenia și speranța sunt testate continuu, în timp ce puterea corupătoare a Inelului amenință totul."
+  },
+  {
+    "title": "Moby-Dick",
+    "themes": ["obsesie", "natură", "soartă", "aventură maritimă"],
+    "summary_short": "Căpitanul Ahab pornește în urmărirea obsesivă a balenei albe.",
+    "summary_full": "Romanul lui Melville îmbină epopeea maritimă cu reflecții filosofice. Ahab, condus de răzbunare, își împinge echipajul spre pericol pentru a înfrunta balena Moby-Dick. Cartea investighează limitele cunoașterii, obsesia și conflictul om–natură."
+  }
+]
