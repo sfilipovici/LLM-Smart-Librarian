@@ -5,7 +5,10 @@ from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
 
 DB_DIR = os.environ.get("CHROMA_DB_DIR", ".chroma")
 COLLECTION = os.environ.get("CHROMA_COLLECTION", "books")
-DATA_PATH = os.environ.get("BOOKS_PATH", "data/book_summaries.json")
+# Use script directory to build a safe, cross-platform default path
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_DATA_PATH = os.path.join(SCRIPT_DIR, "..", "data", "book_summaries.json")
+DATA_PATH = os.environ.get("BOOKS_PATH", DEFAULT_DATA_PATH)
 
 def stringify_metadata(meta):
     # Convert any list value in metadata to a comma-separated string
