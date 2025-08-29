@@ -58,5 +58,95 @@
     "themes": ["obsesie", "natură", "soartă", "aventură maritimă"],
     "summary_short": "Căpitanul Ahab pornește în urmărirea obsesivă a balenei albe.",
     "summary_full": "Romanul lui Melville îmbină epopeea maritimă cu reflecții filosofice. Ahab, condus de răzbunare, își împinge echipajul spre pericol pentru a înfrunta balena Moby-Dick. Cartea investighează limitele cunoașterii, obsesia și conflictul om–natură."
+  },
+    {
+    "title": "Crime and Punishment",
+    "themes": ["vinovăție", "moralitate", "justiție", "psihologie"],
+    "summary_short": "Raskolnikov comite o crimă și se luptă cu vinovăția și consecințele morale.",
+    "summary_full": "Romanul lui Dostoievski explorează frământările psihologice ale studentului Raskolnikov după ce ucide o cămătăreasă. Între remușcări, justificări filosofice și confruntarea cu legea, povestea investighează natura vinovăției și posibilitatea mântuirii."
+  },
+  {
+    "title": "Anna Karenina",
+    "themes": ["iubire", "familie", "societate", "tragedie"],
+    "summary_short": "Anna trăiește o poveste de dragoste pasională ce sfidează convențiile sociale.",
+    "summary_full": "Tolstoi prezintă drama Annei Karenina, prinsă între pasiunea pentru Vronski și obligațiile familiale. Romanul contrastează destinul ei tragic cu viața liniștită a lui Levin, explorând tensiunile dintre iubire, moralitate și normele societății rusești."
+  },
+  {
+    "title": "Don Quixote",
+    "themes": ["idealism", "realitate vs. iluzie", "aventură", "satiră"],
+    "summary_short": "Un cavaler visător pornește în aventuri absurde alături de scutierul său Sancho.",
+    "summary_full": "Miguel de Cervantes creează un erou ridicol și tragic în același timp. Don Quijote, prins între idealurile cavaleriei medievale și o lume pragmatică, explorează conflictul dintre vis și realitate, dar și prietenia sinceră cu Sancho Panza."
+  },
+  {
+    "title": "War and Peace",
+    "themes": ["istorie", "dragoste", "destin", "război"],
+    "summary_short": "Familii aristocrate ruse traversează dragoste și pierdere în timpul războaielor napoleoniene.",
+    "summary_full": "Tolstoi combină drama personală cu epopeea istorică, urmărind familiile Bolkonski și Rostov în timpul invaziei lui Napoleon. Romanul dezbate liberul arbitru, sensul vieții și efectele războiului asupra individului și națiunii."
+  },
+  {
+    "title": "Brave New World",
+    "themes": ["control social", "tehnologie", "conformism", "libertate"],
+    "summary_short": "O lume futuristă reglementează fericirea prin control genetic și condiționare socială.",
+    "summary_full": "Aldous Huxley imaginează o societate unde tehnologia și manipularea psihologică suprimă individualitatea. Personajele confruntă dileme despre libertatea reală și costul progresului, ridicând întrebări despre natura fericirii."
+  },
+  {
+    "title": "Frankenstein",
+    "themes": ["știință", "responsabilitate", "izolare", "umanitate"],
+    "summary_short": "Victor Frankenstein creează un monstru care scapă de sub control.",
+    "summary_full": "Mary Shelley explorează consecințele dorinței de cunoaștere nelimitată. Creatura respinsă devine un simbol al izolării și al nevoii de acceptare, iar romanul ridică întrebări despre limitele științei și responsabilitatea creatorului."
+  },
+  {
+    "title": "Dracula",
+    "themes": ["mister", "frică", "lupta binelui cu răul", "imortalitate"],
+    "summary_short": "Contele Dracula terorizează Anglia, iar un grup de oameni încearcă să-l oprească.",
+    "summary_full": "Bram Stoker creează figura iconică a vampirului modern. Cartea combină goticul cu modernitatea secolului XIX, explorând anxietățile legate de moarte, sexualitate și credință în lupta dintre bine și rău."
+  },
+  {
+    "title": "Jane Eyre",
+    "themes": ["independență", "iubire", "moralitate", "feminism timpuriu"],
+    "summary_short": "Orfana Jane își caută locul în lume și găsește dragostea într-o relație complicată.",
+    "summary_full": "Charlotte Brontë urmărește evoluția lui Jane de la copil orfan la femeie independentă. Relația ei cu enigmaticul domn Rochester scoate la iveală conflicte morale și dorința de autonomie, într-un roman cu puternice accente feministe."
+  },
+  {
+    "title": "Wuthering Heights",
+    "themes": ["iubire pasională", "răzbunare", "natură", "destin"],
+    "summary_short": "Heathcliff și Catherine trăiesc o iubire intensă, dar autodistructivă.",
+    "summary_full": "Emily Brontë creează o poveste gotică unde pasiunea extremă duce la ruină. Relația dintre Heathcliff și Catherine devine simbolul forței distructive a iubirii, iar peisajele sălbatice reflectă tumultul interior al personajelor."
+  },
+  {
+    "title": "Les Misérables",
+    "themes": ["justiție", "speranță", "sacrificiu", "umanitate"],
+    "summary_short": "Jean Valjean caută mântuirea în timp ce este urmărit de inspectorul Javert.",
+    "summary_full": "Victor Hugo explorează inegalitățile sociale și lupta dintre lege și moralitate. Povestea lui Valjean, transformat prin bunătate, se intersectează cu revoltele pariziene și destinele altor personaje marcante."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "themes": ["cenzură", "libertatea cunoașterii", "distopie", "tehnologie"],
+    "summary_short": "Într-o lume unde cărțile sunt arse, Montag descoperă puterea lecturii.",
+    "summary_full": "Ray Bradbury imaginează o societate unde pompiștii ard cărți pentru a suprima gândirea critică. Montag, un pompier, devine treptat un disident, iar romanul devine un manifest pentru libertatea intelectuală."
+  },
+  {
+    "title": "The Alchemist",
+    "themes": ["destin", "călătorie", "spiritualitate", "auto-descoperire"],
+    "summary_short": "Santiago pornește într-o călătorie pentru a-și descoperi destinul.",
+    "summary_full": "Paulo Coelho povestește aventura păstorului Santiago care, căutând o comoară, descoperă că adevărata comoară este drumul și autocunoașterea. Roman alegoric despre destin, visuri și spiritualitate."
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "themes": ["credință", "moralitate", "familie", "liber arbitru"],
+    "summary_short": "Conflictele dintre frații Karamazov reflectă tensiunile morale și spirituale.",
+    "summary_full": "Dostoievski investighează problema existenței lui Dumnezeu și a răului prin drama unei familii. Frații Karamazov, fiecare cu o viziune distinctă, reprezintă diferite perspective asupra credinței, rațiunii și moralității."
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "themes": ["magical realism", "istorie", "destin colectiv", "familie"],
+    "summary_short": "Saga familiei Buendía surprinde un secol de istorie și magie în Macondo.",
+    "summary_full": "Gabriel García Márquez creează un roman emblematic al realismului magic, unde miraculosul și banalul coexistă. Povestea urmărește șapte generații ale familiei Buendía, reflectând destinul Americii Latine."
+  },
+  {
+    "title": "The Odyssey",
+    "themes": ["eroism", "aventură", "perseverență", "familie"],
+    "summary_short": "Ulise se întoarce acasă după războiul troian, înfruntând zeii și monștrii.",
+    "summary_full": "Epopeea atribuită lui Homer urmărește călătoria lui Odiseu de a reveni la Ithaca. Înfruntând sirene, ciclopi și furia zeilor, el întruchipează rezistența și dorința de reîntoarcere la familie și patrie."
   }
 ]
